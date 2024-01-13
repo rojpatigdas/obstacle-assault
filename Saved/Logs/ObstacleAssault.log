@@ -2251,3 +2251,7 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2024.01.13-11.12.47:174][193]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.60% of total time (compiled  419 times, average 1.66 sec, max 6.94 sec, min 0.36 sec)
 [2024.01.13-11.12.47:174][193]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.54% of total time (compiled  435 times, average 1.58 sec, max 37.13 sec, min 0.63 sec)
 [2024.01.13-11.12.47:174][193]LogShaderCompilers: Display: ================================================
+[2024.01.13-11.56.02:526][707]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.13-11.58.40:809][179]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.13-12.10.15:556][251]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.13-12.11.57:151][554]LogDerivedDataCache: C:/Users/sadgi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.276 and deleted 0 file(s) with total size 0 MiB.
