@@ -640,3 +640,70 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.15-03.46.58:071][  0]LightingResults: New page: Lighting Build
 [2024.01.15-03.46.58:136][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
 [2024.01.15-03.46.58:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.15-03.47.03:504][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LearningKit_Games_Showcase'.
+[2024.01.15-03.47.03:505][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.01.15-03.47.03:505][  0]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-03.47.03:509][  0]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.01.15-03.47.04:767][  0]LogNiagara: Compiling System NiagaraSystem /Game/LearningKit_Games/Assets/VFX/Pollen/VFX_Pollen.VFX_Pollen took 1.318878 sec, no shader worker used.
+[2024.01.15-03.47.04:835][  0]LogNiagara: Compiling System NiagaraSystem /Game/LearningKit_Games/Assets/VFX/Emitters/Enviroment/NS_WindCurveSystem.NS_WindCurveSystem took 1.665734 sec, no shader worker used.
+[2024.01.15-03.47.04:850][  0]LogNiagara: Compiling System NiagaraSystem /Game/LearningKit_Games/Assets/VFX/Clouds/VFX_MeshClouds_Base.VFX_MeshClouds_Base took 1.554720 sec, no shader worker used.
+[2024.01.15-03.47.06:325][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-03.47.06:361][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.15-03.47.06:364][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-03.47.06:366][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.285ms to complete.
+[2024.01.15-03.47.06:367][  0]LogFileHelpers: Loading map 'LearningKit_Games_Showcase' took 8.359
+[2024.01.15-03.47.06:469][  0]LogUnrealEdMisc: Total Editor Startup Time, took 42.963
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: ================================================
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1024.00 MB (1.00 GB) budget. Usage: 0.00%
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.15-03.47.06:470][  0]LogShaderCompilers: Display: ================================================
+[2024.01.15-03.47.06:741][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-03.47.06:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-03.47.06:755][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-03.47.06:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-03.47.07:010][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:010][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:021][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:021][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:031][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:031][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:038][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:038][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:061][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:061][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:071][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:071][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:080][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:080][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:088][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:088][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:097][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:097][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:105][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.01.15-03.47.07:105][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.01.15-03.47.07:105][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.01.15-03.47.07:545][  0]LogSlate: Took 0.007610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.15-03.47.07:561][  0]LogSlate: Took 0.010713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.01.15-03.47.07:580][  0]LogSlate: Took 0.007686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.15-03.47.07:582][  0]LogSlate: Took 0.001044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.01.15-03.47.07:671][  0]LogViewport: Scene viewport resized to 1019x894, mode Windowed.
+[2024.01.15-03.47.08:919][  0]LogStall: Startup...
+[2024.01.15-03.47.08:924][  0]LogStall: Startup complete.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Action Jump uses invalid key Daydream_Left_Select_Click.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Action ResetVR uses invalid key Daydream_Left_Trackpad_Click.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Action Jump uses invalid key MagicLeap_Left_Trigger.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Action ResetVR uses invalid key MagicLeap_Left_Bumper.
+[2024.01.15-03.47.08:969][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.01.15-03.47.08:969][  0]LogLoad: (Engine Initialization) Total time: 45.46 seconds
+[2024.01.15-03.47.08:969][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.01.15-03.47.09:038][  0]LogAssetRegistry: Asset discovery search completed in 27.8136 seconds
+[2024.01.15-03.47.09:110][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000411 seconds (updated 0 objects)
+[2024.01.15-03.47.09:164][  0]LogContentStreaming: Texture pool size now 1000 MB
